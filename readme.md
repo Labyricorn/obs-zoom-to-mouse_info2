@@ -133,7 +133,7 @@ Note: If you are also using a `transform crop` on the non-display capture source
 
 ##
 
-Want to support me staying awake long enough to add some more features?
+Want to support me fixing LUA scripts?
 
-<a href="https://www.buymeacoffee.com/blanksourcecode" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://ko-fi.com/labyricorn" target="_blank"><img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_red.png" alt="Support me on Ko-Fi" height="41" width="174"></a>
 
